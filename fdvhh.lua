@@ -1,7 +1,6 @@
 -- ==========================================
 -- PRO MAX MOBILE EDITION V24 (ULTIMATE FAILSAFE)
 
-
 -- 1. HỆ THỐNG CHỜ TẢI AN TOÀN (CHỐNG LỖI MẤT MENU)
 if not game:IsLoaded() then game.Loaded:Wait() end
 local Players = game:GetService("Players")
